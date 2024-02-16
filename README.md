@@ -11,5 +11,5 @@ This repository is for sharing Matlab scripts used in our article:
 
 Detailed instructions are included in the LiveScript files.
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://github.com/masahiroshinya/ShinyaTakiyama2024JB)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=masahiroshinya/ShinyaTakiyama2024JB)
 
