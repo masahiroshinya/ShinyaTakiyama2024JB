@@ -59,8 +59,10 @@ We would recommend having 80+% of power based on the convention since Cohen (198
 - Within-subject design: normal vs. dual-task walk; pre- vs. post-intervention session
 - 20 trials for each participant to calculate step variability
 - 20 participants
+  
 ![image](https://github.com/masahiroshinya/ShinyaTakiyama2024JB/assets/16458591/9466bdd7-878e-4c10-bb74-2fd716ab0a7b)
 ![image](https://github.com/masahiroshinya/ShinyaTakiyama2024JB/assets/16458591/33c2b4cd-dff8-4de7-87a3-1c91ffefad23)
+  
 - The results indicate that the research has a 91% power to detect a 20% difference in SD, but it has only a 40% power to detect a 10% difference.
   
 [Examples of writing in your paper]
