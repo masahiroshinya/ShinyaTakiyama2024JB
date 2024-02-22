@@ -43,7 +43,7 @@ Make sure to keep in mind the statistical power of your research plan.
 Especially, when you observe a lack of statistical difference in variability measures, and if the estimated statistical power is too low, it means that the observed result could be false negative.  
 We would recommend having 80+% of power based on the convention since Cohen (1988).
 
-#### [fictional case study 1]
+#### [fictional study 1]
 - Between-group design: patient vs. control
 - 100 steps for each participant to calculate step variability (treadmill walking)
 - 16 participants for each group
@@ -55,7 +55,7 @@ We would recommend having 80+% of power based on the convention since Cohen (198
 - Based on previous studies (whatever refs), we hypothesized that the difference in the step variability (CV of step length, width, and duration) would be 10%. According to a previous study (Shinya and Takiyama, 2024), we confirmed that our research plan (measuring 100 steps from 16 participants for each group) was capable of detecting a significant difference with 94% statistical power.
 - Given the sufficient statistical power, the lack of difference in the step variability was worth discussing. 
 
-#### [fictional case study 2]
+#### [fictional study 2]
 - Within-subject design: normal vs. dual-task walk; pre- vs. post-intervention session
 - 20 trials for each participant to calculate step variability
 - 20 participants
