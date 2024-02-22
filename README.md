@@ -42,6 +42,11 @@ Make sure to keep in mind the statistical power of your research plan.
 Especially, when you observe a lack of statistical difference in variability measures, and if the estimated statistical power is too low, it means that the observed result could be false negative.  
 We would recommend having 80+% of power based on the convention since Cohen (1988).
 
+  
+# Examples of writing in your paper
+[fictional case study]
+![image](https://github.com/masahiroshinya/ShinyaTakiyama2024JB/assets/16458591/e28d7180-ec18-489b-9c51-060f03932046)
 
-
+- Based on previous studies (whatever refs), we hypothesized that the difference in the step variability (CV of step length, width, and duration) would be 10%. According to a previous study, we confirmed that our research plan (measuring 100 steps from 16 participants for each group) was capable of detecting a significant difference with 92% statistical power.
+- The lack of difference in the variability of *variable name* was worth discussing. Given that we measured 100 steps from 16 participants, 
 
