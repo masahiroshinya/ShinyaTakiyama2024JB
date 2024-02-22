@@ -29,10 +29,19 @@ Detailed instructions are included in the LiveScript files.
   - Expected difference in variance
   - Number of trials
   - Number of subjects  
-![image](https://github.com/masahiroshinya/ShinyaTakiyama2024JB/assets/16458591/9ddfe3f6-4d9f-4a08-bb1d-3f68d8ab7fcf)
+![image](https://github.com/masahiroshinya/ShinyaTakiyama2024JB/assets/16458591/9ddfe3f6-4d9f-4a08-bb1d-3f68d8ab7fcf)  
 Note: The screenshot is for independent-samples-design (i.e., comparison between different groups of subjects)
 
 - Run the code and you will get the statistical power to detect a significant difference given the research plan.
 ![image](https://github.com/masahiroshinya/ShinyaTakiyama2024JB/assets/16458591/a2fe0e8c-2d5e-4318-ba94-3856dd7be23c)  
 Note: The results suggest 88% of statistical power with the given parameters.
+
+---
+### How to use this for your research and research paper.
+Make sure to keep in mind the statistical power of your research plan.
+Especially, when you observe a lack of statistical difference in variability measures, and if the estimated statistical power is too low, it means that the observed result could be false negative.  
+We would recommend having 80+% of power based on the convention since Cohen (1988).
+
+
+
 
