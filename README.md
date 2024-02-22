@@ -28,7 +28,8 @@ Detailed instructions are included in the LiveScript files.
 - Input values of your research plan for the simulation:
   - Expected difference in variance
   - Number of trials
-  - Number of subjects  
+  - Number of subjects
+  
 ![image](https://github.com/masahiroshinya/ShinyaTakiyama2024JB/assets/16458591/9ddfe3f6-4d9f-4a08-bb1d-3f68d8ab7fcf)  
 Note: The screenshot is for independent-samples-design (i.e., comparison between different groups of subjects)
 
