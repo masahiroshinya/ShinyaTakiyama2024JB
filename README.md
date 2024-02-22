@@ -42,11 +42,27 @@ Make sure to keep in mind the statistical power of your research plan.
 Especially, when you observe a lack of statistical difference in variability measures, and if the estimated statistical power is too low, it means that the observed result could be false negative.  
 We would recommend having 80+% of power based on the convention since Cohen (1988).
 
-  
-# Examples of writing in your paper
-[fictional case study]
+[fictional case study 1]
+- Between-group design: patient vs. control
+- 100 steps for each participant to calculate step variability (treadmill walking)
+- 16 participants for each group
+- Note that a 10% difference in SD/CV corresponds to a 1.21 times difference in variance.
 ![image](https://github.com/masahiroshinya/ShinyaTakiyama2024JB/assets/16458591/e28d7180-ec18-489b-9c51-060f03932046)
+- The result indicates 94% power.
 
-- Based on previous studies (whatever refs), we hypothesized that the difference in the step variability (CV of step length, width, and duration) would be 10%. According to a previous study, we confirmed that our research plan (measuring 100 steps from 16 participants for each group) was capable of detecting a significant difference with 92% statistical power.
-- The lack of difference in the variability of *variable name* was worth discussing. Given that we measured 100 steps from 16 participants, 
+[fictional case study 2]
+- Within-subject design: normal vs. dual-task walk; pre- vs. post-intervention session
+- 20 trials for each participant to calculate step variability
+- 20 participants
+![image](https://github.com/masahiroshinya/ShinyaTakiyama2024JB/assets/16458591/9466bdd7-878e-4c10-bb74-2fd716ab0a7b)
+![image](https://github.com/masahiroshinya/ShinyaTakiyama2024JB/assets/16458591/33c2b4cd-dff8-4de7-87a3-1c91ffefad23)
+- The results indicate that the research has a 91% power to detect a 20% difference in SD, but it has only a 40% power to detect a 10% difference.
 
+# Examples of writing in your paper
+[fictional case study 1]
+- Based on previous studies (whatever refs), we hypothesized that the difference in the step variability (CV of step length, width, and duration) would be 10%. According to a previous study (Shinya and Takiyama, 2024), we confirmed that our research plan (measuring 100 steps from 16 participants for each group) was capable of detecting a significant difference with 94% statistical power.
+- Given the sufficient statistical power, the lack of difference in the step variability was worth discussing. 
+
+[fictional case study 2]
+- We performed a simulation to estimate the statistical power of this research (Shinya and Takiyama, 2024). It suggested that our research has a 91% power to detect a 20% difference in SD, but it has only a 40% power to detect a 10% difference.
+- We observed no significant difference in step variability between the normal and dual-task conditions. The results of numerical simulation (Shinya and Takiyama 2024) suggest that the lack of difference could be a false negative if the real effect of the dual-tasking was estimated as small as 10%. Further studies with collecting more steps would be needed to assess the potential effects.
